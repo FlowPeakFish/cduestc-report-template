@@ -1,7 +1,27 @@
+<p align="center">
+  <img width="240" src="demo/logo.png">
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/fwfmiao/cduestc-report-template/releases">
+    <img src="https://img.shields.io/github/release/fwfmiao/cduestc-report-template.svg" alt="GitHub release">
+  </a>
+</p>
+
 # 电子科技大学成都学院 - 报告模板
+
 ## 简介
 
 该模板为电子科技大学成都学院毕业设计所用，根据2021年教务处所发规范，重制新的模板，修正了教务所发模板中格式错误，使用繁琐的bug，将所有文字添加样式，学生只需要选择样式即可快速调整样式，方便快捷。
+
+## 下载地址&更新日志
+
+Detailed changes for each release are documented in the [release notes](https://github.com/fwfmiao/cduestc-report-template/releases).
+
+## 模板库
+
+- 毕业设计/课程设计
 
 ## 样式库
 
@@ -49,11 +69,7 @@
 
 ![image-20210514110534954](demo/image-20210514110534954.png)
 
-![image-20210514110617095](demo/image-20210514110617095.png)
-
-## 版本更新
-
-v1.0版本更新于2021年5月14日
+![image-20210514134941352](demo/image-20210514134941352.png)
 
 ## 贡献
 
