@@ -2,13 +2,6 @@
   <img width="240" src="demo/logo.png">
 </p>
 
-
-<p align="center">
-  <a href="https://github.com/fwfmiao/cduestc-report-template/releases">
-    <img src="https://img.shields.io/github/release/fwfmiao/cduestc-report-template.svg" alt="GitHub release">
-  </a>
-</p>
-
 # 电子科技大学成都学院 - 报告模板
 
 ## 🌱 简介
