@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="240" src="demo/logo.png">
+  <img width="200" src="demo/logo.png">
 </p>
 
 # 电子科技大学成都学院 - 报告模板
