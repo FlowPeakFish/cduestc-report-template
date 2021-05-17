@@ -8,9 +8,11 @@
 
 该模板为电子科技大学成都学院毕业设计所用，根据 2021 年教务处所发规范，重制新的模板，修正了教务所发模板中格式错误，使用繁琐的 bug，将所有文字添加样式，学生只需要选择样式即可快速调整样式，方便快捷。
 
-## 📥 下载地址&更新日志
+## 📥 下载地址
 
-Detailed changes for each release are documented in the [release notes](https://github.com/fwfmiao/cduestc-report-template/releases).
+在 files 文件夹中，选择有需求的模板，选择右上角的`download`下载
+
+或者直接点击右上角的【Code-Download ZIP】下载本项目全部文件
 
 ## 🗃️ 模板库
 
